@@ -3,7 +3,8 @@ import React from 'react'
 function HelloWorld() {
     return (
         <div>
-            Hello World
+            <div className='headermsg'><strong>Schedule IT</strong></div>
+            <img alt='Calendar' src={'./images/calendar.gif'} />
         </div>
     )
 }
