@@ -1,4 +1,4 @@
-Schdule IT AWS Application Repo
+ScheduleIT AWS Application Repo
 ## Available Scripts
 
 In the project directory, you can run:
